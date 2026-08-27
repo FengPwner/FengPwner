@@ -12,10 +12,10 @@
 ## Social Media <<<<Priority
 | Application | Account_1 | Account_2 | Add way & Remark |  Account Link  |
 | :---------: | :-------: | :-------: | :----: | :----: |
-| WeChat/微信  | dadatomo |            | Add as friend & Priority | 
-| QQ          | 2982113910 |         | Add as friend  |
-| DingTalk | lbfliubaofeng |         |   Add as friend | [Add me](https://n.dingtalk.com/dingding/h5-profile/outside/index.html?fr_source=13&uidCipher=pG5EZ8CMk9UtK8XvIAFHvQ%3D%3D&cardToken=426b3dbb0a&profile=%40kgDOj0oPRQ) 
-| CSDN[^2] | @2302_76189356 | FengPwner[^3] | Private letters & Secondary | [Blog](https://blog.csdn.net/2302_76189356?type=blog) |
+| <nobr>WeChat/微信</nobr>  | <nobr>dadatomo</nobr> |            | <nobr>Add as friend & Priority</nobr> | 
+| <nobr>QQ</nobr>          | <nobr>2982113910</nobr> |         | <nobr>Add as friend</nobr>  |
+| <nobr>DingTalk</nobr> | <nobr>lbfliubaofeng</nobr> |         |   <nobr>Add as friend</nobr> | [Add me](https://n.dingtalk.com/dingding/h5-profile/outside/index.html?fr_source=13&uidCipher=pG5EZ8CMk9UtK8XvIAFHvQ%3D%3D&cardToken=426b3dbb0a&profile=%40kgDOj0oPRQ) 
+| <nobr>CSDN[^2]</nobr> | <nobr>@2302_76189356</nobr> | <nobr>FengPwner[^3]</nobr> | <nobr>Private letters & Secondary</nobr> | [Blog](https://blog.csdn.net/2302_76189356?type=blog) |
 
 [^2]:"Chinese Software Developer Network"Platform
 [^3]:It is the same account as @2302_76189356
