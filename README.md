@@ -10,7 +10,7 @@
 ---
 
 ## Social Media <<<<Priority
-| Application | Account_1 | Account_2 | Add way & Remark |  Account Link  |
+| Application | Account_1 | Account_2 | <nobr>Add way & Remark</nobr> |  Account Link  |
 | :---------: | :-------: | :-------: | :----: | :----: |
 | <nobr>WeChat/微信</nobr>  | <nobr>dadatomo</nobr> |            | <nobr>Add as friend & Priority</nobr> | 
 | <nobr>QQ</nobr>          | <nobr>2982113910</nobr> |         | <nobr>Add as friend</nobr>  |
