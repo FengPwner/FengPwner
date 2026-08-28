@@ -33,9 +33,9 @@ To [Google Email--Gmail](mailto:lbfliubaofeng@gmail) <<<<Secondary
 
 
 ## Issue <<<<Secondary
-[GitHub Issue](https://github.com/TNET-feng/TNET-feng/issues)
+[GitHub Issue](https://github.com/FengPwner/FengPwner/issues)
 
-[Atomgit Issue](https://atomgit.com/TNET_feng/ContactMe/issues)[^4]
+[Atomgit Issue](https://atomgit.com/FengPwner/FengPwner/issues)[^4]
 
 
 [^4]:Atomgit Gitcode Issue
