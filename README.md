@@ -21,12 +21,12 @@
 
 ### 🌐 Social Media `<<<< Priority`
 
-| Application | Account ① | Account ② | How to Add & Remark | Link |
+| Application | Account | Account | How to Add & Remark | Link |
 | :--- | :--- | :--- | :--- | :---: |
 | **WeChat / 微信** | `dadatomo` | — | Add as friend · **Priority** | — |
 | **QQ** | `2982113910` | — | Add as friend | — |
-| **DingTalk** | `lbfliubaofeng` | — | Add as friend | [➕ Add me](https://example.com) |
-| **CSDN** [^2] | `@2302_76189356` | `FengPwner` [^3] | Private message · **Secondary** | [📝 Blog](https://blog.csdn.net/2302_76189356) |
+| **DingTalk** | `lbfliubaofeng` | — | Add as friend | [Add me](https://example.com) |
+| **CSDN** [^2] | `@2302_76189356` | `FengPwner` [^3] | Private message · **Secondary** | [Blog](https://blog.csdn.net/2302_76189356) |
 
 ### ✉️ Email
 
