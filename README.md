@@ -25,7 +25,6 @@
 | Application | Account 1 | Account 2 | Contact Method & Priority | Link |
 |:---:|:---:|:---:|:---:|:---:|
 | **WeChat / 微信** | `dadatomo` | — | Add as friend · **Priority** | — |
-| **WeChat / 微信** | `2982113910` | — | Add as friend | — |
 | **DingTalk** | `lbfliubaofeng` | — | Add as friend | [Add Me][dingtalk] |
 | **CSDN** | `@2302_76189356` | `FengPwner`¹ | Send a private message · **Secondary** | [Blog][csdn] |
 
