@@ -88,7 +88,7 @@ Authorization comes first. No permission, no testing.
 | :--- | :--- | :--- | :--- |
 | WeChat | dadatomo | Add as friend & Priority | - |
 | DingTalk | lbliubaofeng | Add as friend | [Add me](https://n.dingtalk.com/dingding/h5-profile/outside/index.html) |
-| Email | lbliubaofeng@163.com | Email communication | - |
+| Email | lbliubaofeng@dingtalk.com | Email communication | - |
 
 <div align="center">
 
@@ -102,4 +102,3 @@ Authorization comes first. No permission, no testing.
 <sub>Last updated: 2026</sub>
 
 </div>
-```
