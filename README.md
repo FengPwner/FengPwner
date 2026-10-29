@@ -1,67 +1,73 @@
 <div align="center">
 
-# Hi there, I'm FengPwner 👋
+# FengPwner
+### Offensive Security Researcher | Penetration Tester
+> *"Stay curious, stay sharp, test with authorization only."*
 
-**Security Researcher · Developer · Open-Source Enthusiast**
-
-[![GitHub](https://img.shields.io/badge/GitHub-FengPwner-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FengPwner)
-[![CSDN](https://img.shields.io/badge/CSDN-Blog-FC5531?style=for-the-badge&logo=c&logoColor=white)](https://blog.csdn.net/2302_76189356)
-[![AtomGit](https://img.shields.io/badge/AtomGit-Issue-2F80ED?style=for-the-badge&logo=git&logoColor=white)](https://atomgit.com)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+profile!;Feel+free+to+reach+out+%F0%9F%98%8A;Chinese+is+preferred+for+communication" alt="Typing SVG" />
+[![GitHub followers](https://img.shields.io/github/followers/FengPwner?style=for-the-badge&logo=github&color=22272e)](https://github.com/FengPwner)
+[![Profile Visits](https://komarev.com/ghpvc/?username=FengPwner&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS)](https://github.com/FengPwner)
+[![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red?style=for-the-badge)](LICENSE)
 
 </div>
 
 ---
 
-## 📇 Contact Me
+## About Me
+> I am an offensive security researcher and advanced penetration engineer.
+> All security testing activities I conduct are performed **with explicit, written authorization** from the asset owner.
+> I oppose any unauthorized intrusion, hacking, and destructive cyber behavior.
 
-> **Before you message me**, please briefly introduce **who you are** and **what you need**.
-> 🀄 **Chinese is preferred** for communication.
-
-### 🌐 Social Media `<<<< Priority`
-
-| Application | Account | Account | How to Add & Remark | Link |
-| :--- | :--- | :--- | :--- | :---: |
-| **WeChat / 微信** | `dadatomo` | — | Add as friend · **Priority** | — |
-| **QQ** | `2982113910` | — | Add as friend | — |
-| **DingTalk** | `lbfliubaofeng` | — | Add as friend | [Add me](https://example.com) |
-| **CSDN** [^2] | `@2302_76189356` | `FengPwner` [^3] | Private message · **Secondary** | [Blog](https://blog.csdn.net/2302_76189356) |
-
-### ✉️ Email
-
-- **DingTalk Mail (Dmail)** — `<<<< Priority`
-- **Google Mail (Gmail)** — `<<<< Secondary`
-
-### 🐞 Issue Tracking
-
-- **AtomGit GitCode Issue** — `<<<< Secondary` [^4]
+- Focus Area: Web Security, Network Penetration, Vulnerability Research, Security Tool Development
+- Daily Stack: Python, Go, Bash, Burp Suite, Traffic Analysis, Internal Network Audit
+- Project Collection: Custom security automation & auxiliary toolchains
 
 ---
 
-## ⚠️ Disclaimer
+## Important Notice & Cooperation Statement
+> **READ THIS CAREFULLY BEFORE CONTACTING ME.**
+> This statement applies to all unsolicited emails, GitHub messages, social media outreach and any other form of contact.
 
-> **BUT** — please read this carefully.
+### Rejection of Unilateral Unsolicited Outreach
+I **do not accept any unilateral, unsolicited non-commercial cooperation invitations, portfolio evaluation promotions, platform cold outreach, volunteer collaboration requests, or similar marketing messages** sent without prior mutual confirmation.
 
-The tools I provide are offered **"as is"** and **without any warranties**. I expressly disclaim all responsibility and liability for any actions you take, decisions you make, or outcomes that arise from your use of them — **you are solely and entirely responsible** for how you use the tool, the content you generate with it, and any consequences, legal or otherwise, that may follow.
+- I will not review your platform, portfolio service, SaaS product, designer matching service, open-source collaboration invitation, or any unsolicited proposal.
+- Any unsolicited promotional message sent to my public contact information will be treated as spam harassment.
+- Do **not** send links, introduction documents, activity invitations, or follow-up reminders to me repeatedly.
 
-I do **not** guarantee its accuracy, reliability, or fitness for any specific purpose. By using it, you agree to hold me harmless from any claims, damages, or losses incurred, acknowledging that this tool is **not a substitute for professional advice** and that your continued use constitutes your **full acceptance** of this disclaimer.
+### Rules for Valid Contact
+Legitimate contact is only accepted when **all of the following conditions are satisfied**:
+1. The contact is initiated with prior mutual consent
+2. The content is security research, authorized testing, or technical academic communication
+3. No hidden marketing, diversion, or commercial promotion purpose
+
+> Continued delivery of unsolicited messages after reading this statement will result in spam reports and blocking.
+> I reserve all rights to submit harassment complaints to relevant service providers.
 
 ---
+
+## Legal & Ethical Disclaimer
+> All open-source projects published by me are for **educational and authorized security research purposes only**.
+>
+> 1. It is strictly prohibited to use any code, script or resource from my repositories for unauthorized scanning, intrusion, data theft or other illegal activities.
+> 2. I shall not be held liable for any direct or indirect losses caused by improper use of these resources.
+> 3. Any reproduction, redistribution or secondary packaging of my projects must comply with the license file attached to each repository.
+
+---
+
+## Contact
+> No unsolicited cold emails / marketing messages please.
+> Only technical discussions about security research are acceptable.
+
+| Channel | Information |
+| :--- | :--- |
+| GitHub | [@FengPwner](https://github.com/FengPwner) |
+| CSDN | [https://blog.csdn.net/2302_76189356](https://blog.csdn.net/2302_76189356) |
+| Email | lbliubaofeng@163.com |
 
 <div align="center">
 
-### Thank you! 😋
-
-⭐️ *If you find my work helpful, consider giving it a star!*
-
-</div>
-
----
-
-## 📌 Footnotes
-
-[^1]: If you don't use Chinese, please tell me your language.
-[^2]: "Chinese Software Developer Network" Platform.
-[^3]: It is the same account as `@2302_76189356`.
-[^4]: AtomGit GitCode Issue.
+```text
+┌─────────────────────────────────────┐
+│    AUTHORIZED TESTING ONLY          │
+│    NO UNAUTHORIZED ACCESS           │
+└─────────────────────────────────────┘
