@@ -10,6 +10,16 @@
 
 </div>
 
+<details open>
+<summary><strong>Table of Contents</strong></summary>
+
+- [About Me](#about-me)
+- [Important Notice & Cooperation Statement](#important-notice--cooperation-statement)
+- [Legal & Ethical Disclaimer](#legal--ethical-disclaimer)
+- [Contact](#contact)
+
+</details>
+
 ---
 
 ## About Me
@@ -20,6 +30,11 @@
 - Focus Area: Web Security, Network Penetration, Vulnerability Research, Security Tool Development
 - Daily Stack: Python, Go, Bash, Burp Suite, Traffic Analysis, Internal Network Audit
 - Project Collection: Custom security automation & auxiliary toolchains
+
+> **Please briefly explain your purpose and identity before contacting me.**
+> Chinese communication is preferred. If you do not use Chinese, please let me know your preferred language.
+
+> <kbd>NOTE</kbd> : All technical exchanges are limited to legitimate security research and authorized testing scenarios.
 
 ---
 
@@ -43,14 +58,25 @@ Legitimate contact is only accepted when **all of the following conditions are s
 > Continued delivery of unsolicited messages after reading this statement will result in spam reports and blocking.
 > I reserve all rights to submit harassment complaints to relevant service providers.
 
+<details>
+<summary>Expand for supplementary instruction</summary>
+
+If you ignore this statement and keep sending unsolicited messages, I will take all available complaint measures to stop the harassment.
+</details>
+
 ---
 
 ## Legal & Ethical Disclaimer
 > All open-source projects published by me are for **educational and authorized security research purposes only**.
->
-> 1. It is strictly prohibited to use any code, script or resource from my repositories for unauthorized scanning, intrusion, data theft or other illegal activities.
-> 2. I shall not be held liable for any direct or indirect losses caused by improper use of these resources.
-> 3. Any reproduction, redistribution or secondary packaging of my projects must comply with the license file attached to each repository.
+
+1. It is strictly prohibited to use any code, script or resource from my repositories for unauthorized scanning, intrusion, data theft or other illegal activities.
+2. I shall not be held liable for any direct or indirect losses caused by improper use of these resources.
+3. Any reproduction, redistribution or secondary packaging of my projects must comply with the license file attached to each repository.
+
+```text
+# Ethical Rule
+Authorization comes first. No permission, no testing.
+```
 
 ---
 
@@ -58,11 +84,11 @@ Legitimate contact is only accepted when **all of the following conditions are s
 > No unsolicited cold emails / marketing messages please.
 > Only technical discussions about security research are acceptable.
 
-| Channel | Information |
-| :--- | :--- |
-| GitHub | [@FengPwner](https://github.com/FengPwner) |
-| CSDN | [https://blog.csdn.net/2302_76189356](https://blog.csdn.net/2302_76189356) |
-| Email | lbliubaofeng@163.com |
+| Application | Account | Remark | Link |
+| :--- | :--- | :--- | :--- |
+| WeChat | dadatomo | Add as friend & Priority | - |
+| DingTalk | lbliubaofeng | Add as friend | [Add me](https://n.dingtalk.com/dingding/h5-profile/outside/index.html) |
+| Email | lbliubaofeng@163.com | Email communication | - |
 
 <div align="center">
 
@@ -71,3 +97,9 @@ Legitimate contact is only accepted when **all of the following conditions are s
 │    AUTHORIZED TESTING ONLY          │
 │    NO UNAUTHORIZED ACCESS           │
 └─────────────────────────────────────┘
+```
+
+<sub>Last updated: 2026</sub>
+
+</div>
+```
