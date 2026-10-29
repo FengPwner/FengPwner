@@ -65,6 +65,6 @@ I do not guarantee its accuracy, reliability, or fitness for any specific purpos
 1. It is the same account as `@2302_76189356`. ↩
 2. "Chinese Software Developer Network" platform. ↩
 
-[dingtalk]: https://www.dingtalk.com/
-[csdn]: https://blog.csdn.net/2302_76189356
-[atomgit]: https://atomgit.com/
+[dingtalk](https://www.dingtalk.com)
+[csdn](https://blog.csdn.net/2302_76189356)
+[atomgit](https://atomgit.com)
